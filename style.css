@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;600&family=Roboto&display=swap");
+
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body{
+
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+h1{ 
+color: white; 
+font-size: 32px;
+font-weight: 600;
+}
+
+h2{
+	color: white;
+	font-size: 28px;
+	font-weight: 300;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
